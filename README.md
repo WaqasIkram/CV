@@ -1,25 +1,51 @@
-## Your Name
+## Waqas Ikram
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A former solider, paralegal and now a Software Developer in making. My blend of unprecedented experiences allows me to see problems strategically. By solving these problems through programming, the adrenaline rush I get is indescribable, and I intend to keep it growing for the greater good of my future employers/clients.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Student-Directory**        | A study project   | Ruby
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Danhoue Security Ltd, London** (May 2019 – Mar 2020 (0Y – 9M))  
+_Security Supervisor_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- I worked as a Security Supervisor / Receptionist at various corporate and remote sites. 
+-	I conducted site patrols, observed security systems and maintained high standards of health and safety.  
+-	As a result, I gained an excellent attention to details skill while responding to issues. I assured of smooth and clear     communication with the team and visitors both orally and in writing.
+
+
+**Goldline Executive Travel Ltd, Leytonstone,  London** (Dec 2014 – Apr 2019 (4Y – 4M))  
+_Customer Advisor_
+
+-	I worked as a Customer Advisor / Telephonist in the largest cab office in East London. 
+-	I responded to over 400 customers in each shift. I worked 12 hours every night from Friday to Sunday (60hrs p/w). I responded inquiries on prices, operations, complaints and lost properties. Over the weekends, I often rescued drivers from abusive and drunken customers by subsiding angry parties tactfully.   
+-	I learnt how to adopt a different style of communication according to the recipient’s needs and how to maximize profitability. I applied various price structuring initiatives and attracted more business.
 
 **Company Name** (start-date to end-date)  
 _Your job title_
 
 - Any experience relevent to software development
+
+**Company Name** (start-date to end-date)  
+_Your job title_
+
+- Any experience relevent to software development
+
+**Company Name** (start-date to end-date)  
+_Your job title_
+
+- Any experience relevent to software development
+
+**Company Name** (start-date to end-date)  
+_Your job title_
+
+- Any experience relevent to software development
+
 
 ## Skills
 
