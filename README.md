@@ -1,6 +1,6 @@
 ## Waqas Ikram
 
-A former solider, paralegal and now a Software Developer in making. My blend of unprecedented experiences allows me to see problems strategically. By solving these problems through programming, the adrenaline rush I get is indescribable, and I intend to keep it growing for the greater good of my future employers/clients.
+A former solider, paralegal and now a Full-Stack Developer in making at Makers. My blend of unprecedented experiences allows me to see problems strategically. By solving these problems through programming, the adrenaline rush I get is indescribable, and I intend to keep it growing for the greater good of my future employers/clients.
 
 ## Projects
 
